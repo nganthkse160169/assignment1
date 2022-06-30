@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T09:17:48.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="6mxvEtdpt3gTgquaUjQN" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T09:30:45.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="tyzpl1gommYGXaTQPUhg" version="20.0.4" type="github">
   <diagram id="QKyKJf3zI5OaiFUIXnoO" name="Page-1">
     <mxGraphModel dx="2633" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,9 +20,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="owIcJipwhkimLPVroond-2" target="owIcJipwhkimLPVroond-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="owIcJipwhkimLPVroond-164" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="owIcJipwhkimLPVroond-2" target="owIcJipwhkimLPVroond-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="owIcJipwhkimLPVroond-2" target="owIcJipwhkimLPVroond-17" edge="1">
@@ -196,9 +193,6 @@
         <mxCell id="owIcJipwhkimLPVroond-150" value="Logout&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="-310" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="owIcJipwhkimLPVroond-163" value="Send invitation to interview" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757.5" y="550" width="260" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-165" value="Apply for a project" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86" y="240" width="194" height="40" as="geometry" />
         </mxCell>
@@ -273,6 +267,14 @@
         </mxCell>
         <mxCell id="GZ2Jp8MdcbIaSBcQHjlq-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;authorize freelancer to be executor&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="300" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ2Jp8MdcbIaSBcQHjlq-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GZ2Jp8MdcbIaSBcQHjlq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZ2Jp8MdcbIaSBcQHjlq-10" value="Approve freelancer &#39;s application" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="370" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
