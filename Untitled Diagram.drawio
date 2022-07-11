@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T17:03:27.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="-pJZHclZgof0CuE5MPSA" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T17:10:18.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="OswagVCe5WAvs4AQBvnV" version="20.0.4" type="github">
   <diagram id="QKyKJf3zI5OaiFUIXnoO" name="Page-1">
     <mxGraphModel dx="2633" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,8 +178,11 @@
         <mxCell id="owIcJipwhkimLPVroond-147" value="Search for projects" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-152.5" y="610" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=0.984;exitY=0.478;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="owIcJipwhkimLPVroond-150" target="fDOj5PAKN1OOYetr5FOa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-150" value="Logout&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="-470" width="440" height="40" as="geometry" />
+          <mxGeometry x="286" y="-540" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -271,7 +274,7 @@
           <mxGeometry x="710" y="460" width="169.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-14" value="Payment Processor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="-165" width="30" height="60" as="geometry" />
+          <mxGeometry x="1640" y="-430" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-15" target="fDOj5PAKN1OOYetr5FOa-14">
           <mxGeometry relative="1" as="geometry" />
