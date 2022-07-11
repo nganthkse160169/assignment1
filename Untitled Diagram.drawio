@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T17:10:18.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="OswagVCe5WAvs4AQBvnV" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T17:14:05.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="sogTlzw9XB2gWs6apUGt" version="20.0.4" type="github">
   <diagram id="QKyKJf3zI5OaiFUIXnoO" name="Page-1">
     <mxGraphModel dx="2633" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,9 +254,6 @@
         </mxCell>
         <mxCell id="TZ2L-xh6pbnUtgHGij2e-4" value="Guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-500" y="970" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GZ2Jp8MdcbIaSBcQHjlq-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;authorize freelancer to be executor&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="300" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="GZ2Jp8MdcbIaSBcQHjlq-10" target="owIcJipwhkimLPVroond-63">
           <mxGeometry relative="1" as="geometry" />
