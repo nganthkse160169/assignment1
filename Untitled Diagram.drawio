@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T16:47:52.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="ykX_mQCiKYI7Nx4QaWK2" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T16:56:53.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="s476MWmcuWarsgT2n_nP" version="20.0.4" type="github">
   <diagram id="QKyKJf3zI5OaiFUIXnoO" name="Page-1">
     <mxGraphModel dx="2633" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="384.5" y="-40" width="335" height="40" as="geometry" />
         </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-38" value="Reset Password" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="790" width="120" height="80" as="geometry" />
+          <mxGeometry x="1370" y="860" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="owIcJipwhkimLPVroond-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="owIcJipwhkimLPVroond-41" target="owIcJipwhkimLPVroond-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,7 +244,7 @@
           <mxGeometry x="800" y="-690" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TZ2L-xh6pbnUtgHGij2e-2" value="Review Freelancer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="750" width="130" height="40" as="geometry" />
+          <mxGeometry x="1220" y="810" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TZ2L-xh6pbnUtgHGij2e-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="TZ2L-xh6pbnUtgHGij2e-4" target="owIcJipwhkimLPVroond-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GZ2Jp8MdcbIaSBcQHjlq-10" value="Hire freelancer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="430" width="165" height="50" as="geometry" />
+          <mxGeometry x="879.75" y="500" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-2" value="Place a Bid for a project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80.5" y="530" width="195" height="50" as="geometry" />
@@ -268,7 +268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-6" value="View Freelancers&#39; Bid List" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="440" width="169.75" height="60" as="geometry" />
+          <mxGeometry x="710" y="460" width="169.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-14" value="Payment Processor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1654" y="-165" width="30" height="60" as="geometry" />
@@ -279,7 +279,7 @@
         <mxCell id="fDOj5PAKN1OOYetr5FOa-15" value="Process Transaction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fDOj5PAKN1OOYetr5FOa-20" value="Manage Task&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-20" value="Manage ProgressTask&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-21" target="fDOj5PAKN1OOYetr5FOa-20">
@@ -292,13 +292,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-22" value="View Task Detail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="240" width="140" height="50" as="geometry" />
+          <mxGeometry x="310" y="230" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-23" target="fDOj5PAKN1OOYetr5FOa-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fDOj5PAKN1OOYetr5FOa-23" value="Update Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="310" width="140" height="50" as="geometry" />
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-23" value="Update Progress Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="295" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-24" target="fDOj5PAKN1OOYetr5FOa-20">
           <mxGeometry relative="1" as="geometry" />
@@ -310,13 +310,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-29" value="Report Freelancer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="640" width="140" height="55" as="geometry" />
+          <mxGeometry x="1110" y="710" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fDOj5PAKN1OOYetr5FOa-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-37" target="fDOj5PAKN1OOYetr5FOa-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fDOj5PAKN1OOYetr5FOa-37" value="Share with customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201.5" y="420" width="117.5" height="60" as="geometry" />
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-37" value="Share with project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="430" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fDOj5PAKN1OOYetr5FOa-41" target="owIcJipwhkimLPVroond-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fDOj5PAKN1OOYetr5FOa-41" value="View Progress Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="460" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
